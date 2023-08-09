@@ -8,6 +8,8 @@ Welcome to my Tesco Grocery 1.0 Case Study repository. Here, I delve into the ex
 The dataset is available here:
 https://figshare.com/collections/Tesco_Grocery_1_0/4769354
 
+My video presentation can be foud here: https://youtu.be/UbRfAX7cjww
+
 **My Approach**
 
 1. **Describing the Dataset:** I've meticulously categorized and summarized the dataset's diverse fields to highlight its value. My narrative goes beyond mere description to contextualize its significance, considering potential limitations.
